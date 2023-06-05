@@ -7,4 +7,4 @@ This is an introductory tutorial project for using React. It runs on a local env
   3. Go to the project directory and run the command "npm start".
   4. Play some Tic-Tac-Toe!
 
-Note: The HTML, CSS, and JavaScript files can be found within the src folder.
+Note: The HTML, CSS, and JavaScript files can be found within the src folder. The "Hello World" code is within the App.js file.
